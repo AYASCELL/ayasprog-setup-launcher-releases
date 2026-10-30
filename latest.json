@@ -1,10 +1,10 @@
-﻿{
+{
     "version":  "0.1.0",
-    "notes":  "AyasProg Resmi Surum Dagitimi",
-    "pub_date":  "2026-10-30T20:21:49Z",
+    "notes":  "v0.1.0 overwrite: BOMsuz latest.json",
+    "pub_date":  "2026-10-30T22:22:00Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRkVSVy82SXNUMDFNZHlXT2ZvN2l3Ny9UTGhuaHVLU2xpWWpoaTRqdWRwTXN6UnR6NnVabkRsVUZXT2d3ZU41QUNKMnVZNmhiakVCRGRoWDZnaURFZTFFaEwyMEdwVndrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzkxNzA5CWZpbGU6QXlhc1Byb2dfMC4xLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4wCkZ1S2MrZlJKdlAycFJCZUx6UzdwWEFNSW43MGFQQXBjWTg5d1VIODF3b3NUNC9mQmpuN1J1MVowUjE3aWtVcVB1VzhWekNzZWV3dlNsZXRDNStpVEN3PT0K",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRkVSVy82SXNUMDJFcHhvQjBqc3dNdm8vZm1PS2Z3T1FNZ253OHN1NTBVaWVJa3lxYkd5VksrV1JDSTdTNkpZVzJSVlJiNlVuUXNWNlFlRXdKaTN2enRlT1QyeXUxMlE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzk4OTE4CWZpbGU6QXlhc1Byb2dfMC4xLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4wCmRjbzNBU1VVNVduK0RsSU1MNjlkcVZCalp0WEFZaldHMzlHanZ1dWRXTE0yVHYydkFvai9tYUU4VUN3ZGlzRVZyZFJtc3FmdVlRNWlNem8rK2E0bUJBPT0K",
                                              "url":  "https://github.com/AYASCELL/ayasprog-setup-launcher-releases/releases/download/v0.1.0/AyasProg_0.1.0_x64-setup.exe"
                                          }
                   }
