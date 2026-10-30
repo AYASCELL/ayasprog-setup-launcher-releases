@@ -1,0 +1,11 @@
+﻿{
+    "version":  "0.1.0",
+    "notes":  "AyasProg Resmi Surum Dagitimi",
+    "pub_date":  "2026-10-30T18:18:46Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSWczeURreU5hbHRXU3pQcWZvVFhPVFhGUXE4R041ckc1bkpmTDF0dUJSWTRadlBjdms4OFpqQUp1a04ya3V3YkpNTCtseGsxWWJFd1R6UWNVdWhMN1ZlUFdoYnhtYkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzg0MzI0CWZpbGU6QXlhc1Byb2dfMC4xLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4wCld6dVgyTlN0STFuTWh6WkRHeWU4Wno1RG56VG53aUlCWG1VNGtBcEdMQjVIbEFNT2d0QVYzbUN4TFJ4NUVBUHNqSnFXQUcrSlFFTnhyK0NJbFdGc0JBPT0K",
+                                             "url":  "https://github.com/AYASCELL/ayasprog-setup-launcher-releases/releases/download/v0.1.0/AyasProg_0.1.0_x64-setup.exe"
+                                         }
+                  }
+}
