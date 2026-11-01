@@ -1,10 +1,10 @@
 {
     "version":  "0.1.1",
-    "notes":  "v0.1.1: cmd/powershell konsol pencereleri gizlendi, sifir bosluklu pencere kontrolleri ve gunluk otomatik guncelleme denetimi eklendi.",
-    "pub_date":  "2026-10-30T23:13:44Z",
+    "notes":  "AyasProg Resmi Surum Dagitimi",
+    "pub_date":  "2026-11-01T11:42:26Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRkVSVy82SXNUMDJQTnRvSGFCdHdOdFdpTzNVK1IzZXh5OHA5bXFTUnVFaGpPb3V3NjZYWFNyYitYaFlkR0dQaEJRd3djcTNqSHE0V2FvY2NDeE5uY1NXSU9EcVRsdVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDAyMDIyCWZpbGU6QXlhc1Byb2dfMC4xLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4xClhxWUh3eTE4emdKUk15bWZyRGRBWm11RHlLWmd6L1ZFV0l4N3FkWStobnNPSFI4cnU4ckZ5MGpudUFoU0hyTmdLM054Vzh6S1JiMk5vYUlkR25jd0NnPT0K",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRkVSVy82SXNUMDh3bXplMEE4ZDA2SkRCRWdDVEpWT2szN3VsWWpFYlNUcjJKWWY3MHRFMzBOMkZsUlFMVTJQeFZUL2lST2lyd0dvYSt6bFg0NUE3cE80UDV0bG9mbXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTMzMzQ0CWZpbGU6QXlhc1Byb2dfMC4xLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4xCllub01kSm5SWC9oSERoa0RjSEZDaWVHMmJZZjJBSXZZU1FmbHlEdWZHVy9yckpxempIWFpVeWtqdm9yMmlYQ3hKVzhGYlVJeVNpNmZ1cEdUZXM4ekJRPT0K",
                                              "url":  "https://github.com/AYASCELL/ayasprog-setup-launcher-releases/releases/download/v0.1.1/AyasProg_0.1.1_x64-setup.exe"
                                          }
                   }
