@@ -1,11 +1,15 @@
 {
     "version":  "0.1.1",
     "notes":  "AyasProg Resmi Surum Dagitimi",
-    "pub_date":  "2026-11-01T11:42:26Z",
+    "pub_date":  "2026-11-01T16:13:34Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRkVSVy82SXNUMDh3bXplMEE4ZDA2SkRCRWdDVEpWT2szN3VsWWpFYlNUcjJKWWY3MHRFMzBOMkZsUlFMVTJQeFZUL2lST2lyd0dvYSt6bFg0NUE3cE80UDV0bG9mbXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTMzMzQ0CWZpbGU6QXlhc1Byb2dfMC4xLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4xCllub01kSm5SWC9oSERoa0RjSEZDaWVHMmJZZjJBSXZZU1FmbHlEdWZHVy9yckpxempIWFpVeWtqdm9yMmlYQ3hKVzhGYlVJeVNpNmZ1cEdUZXM4ekJRPT0K",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRkVSVy82SXNUMDcyOWVnTGt0Rk1CcUhLUXZ4ME9DcEYxSVhnTEIrQzkrOW42Ym92bk5WSmdtYktMWDh3S1JDYkR1Q2RaaWpNSGJhejB5TmhoZllxbWgvSCtyWTYzZkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTQ5MzU5CWZpbGU6QXlhc1Byb2dfMC4xLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4xCm1aRUNtUHdjTUx3eUlzTHFrZm05VGpSelY1Z0NSS2JIK3lYd25McE9XbHZwWHZBQi96TVRYRU1lQkFPYWt1RFhLdVdHeklYQlJUcS9nem9TUGRQd0FBPT0K",
                                              "url":  "https://github.com/AYASCELL/ayasprog-setup-launcher-releases/releases/download/v0.1.1/AyasProg_0.1.1_x64-setup.exe"
-                                         }
+                                         },
+                      "linux-x86_64":  {
+                                           "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRkVSVy82SXNUMC9TN0dnL3dsdHVTUDFJcGsvNzhJM2djVFBpeStpYnJpT0dBT0lNY0kwQlU2T0lnblFnb2MxbEFSY0Jva21JNEozVHBXQW5RbnhNS1RkVVd2N2RnNVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTQ5NjE0CWZpbGU6QXlhc1Byb2cuQXBwSW1hZ2UJdmVyc2lvbjowLjEuMQp4dm9OWWpCUjUzVnVZb0tWVHBnN0Fod0pPUWlEb1hGUTRWbDBDN2lNMkRvdlhiTTdxRVE2d1daRjBxcndmYmhzTEV0cjY0UFA3WmJnNWFkSXYveENDdz09Cg==",
+                                           "url":  "https://github.com/AYASCELL/ayasprog-setup-launcher-releases/releases/download/v0.1.1/AyasProg.AppImage"
+                                       }
                   }
 }
