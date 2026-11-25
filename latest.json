@@ -1,15 +1,15 @@
 {
-    "version":  "0.1.1",
+    "version":  "0.1.2",
     "notes":  "AyasProg Resmi Surum Dagitimi",
-    "pub_date":  "2026-11-01T18:56:11Z",
+    "pub_date":  "2026-11-25T18:07:14Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRkVSVy82SXNUMDdZeVBKVXNnamJURjNuekQwaDYzajY4RWtlL0hld0Z5a3VHR2l5bUFwZE9Xb1JtcmRGNUlmd2t5Q3E5WmZNQ2tENnd3dC9BbFpHWDV4RjBEb2s5cWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTU5MDkwCWZpbGU6QXlhc1Byb2dfMC4xLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4xClV3OHdXVTEwbEZaMElvWEpSNFB5RUZPNDFOdUUrZFRLN1l5RDZ0bDFpak53OGhvNFhqSGdjK3dLOU45Smc0MEVJR0E3ejdVdmFkZjhHamgzVDZIRkFRPT0K",
-                                             "url":  "https://github.com/AYASCELL/ayasprog-setup-launcher-releases/releases/download/v0.1.1/AyasProg_0.1.1_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRkVSVy82SXNUMDFYVW1xTXdLSWRNUFQrWlZ5M0tIcGRHaGE5MFF0eWdPRC91VGo2cFFwSTlDSWJQN2NDR0ZGYlNKSXJuVnJnODcrVFdGbVhBTytKSW1FT1Brcm8raUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjI5NTIwCWZpbGU6QXlhc1Byb2dfMC4xLjJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4yCjlaRHhCWWtlbG0wMEtuMDZrcjVnMjVLeGxzRkdRYXlvNnVqQzFudG90M0l3VmdWemVGbUdXSG91bE5IR1NITHdYY3d3SnZocXRabit2TDJOcU9tS0NBPT0K",
+                                             "url":  "https://github.com/AYASCELL/ayasprog-setup-launcher-releases/releases/download/v0.1.2/AyasProg_0.1.2_x64-setup.exe"
                                          },
                       "linux-x86_64":  {
-                                           "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRkVSVy82SXNUMHdsVUFMdmxiYm8zbW5tcjl3UTNDam5CL2N0SFhBQXNqNERFN21pQ2ZIa210dkIvQTlWcm9GbENObThjNDBUVHhTcGtWZSs1YjNEVmh0cEJXbkw3clFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTU5MzcxCWZpbGU6QXlhc1Byb2cuQXBwSW1hZ2UJdmVyc2lvbjowLjEuMQpxbkZvblZRTU1YUmZkNTM1SGM2M04vOU1Tbm5udGhWWUxvT2tBWlZPWGlOZTA4WDdTbVZmZzlUaVlJN01oY1NGNSt0YS9sZCtMdGE3T295dWFPVTlCdz09Cg==",
-                                           "url":  "https://github.com/AYASCELL/ayasprog-setup-launcher-releases/releases/download/v0.1.1/AyasProg.AppImage"
+                                           "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRkVSVy82SXNUMDI2MjI2SHlkRnZkNjN2K3A5VVB6eUZmOXRXNE1vWThQK1JaTGFncS8xN21Qenhva1JSUWd1Nkl0L3dOY0lSVkF2aEMrMFAyZDFLZGhNbGZjamR3dVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjMwMDM0CWZpbGU6QXlhc1Byb2cuQXBwSW1hZ2UJdmVyc2lvbjowLjEuMgpGbnllTGduK1ZmY0tmRHhRNGxhUnNSMDhOV3QzeklUd2dtcTdFZWg4MWkwNDJLcTRhLzFoQXVBTU9OMnlOOTlLeG5nMkp6Tm8wMmFwd283TGVjYkFEUT09Cg==",
+                                           "url":  "https://github.com/AYASCELL/ayasprog-setup-launcher-releases/releases/download/v0.1.2/AyasProg.AppImage"
                                        }
                   }
 }
